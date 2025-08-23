@@ -9,7 +9,7 @@ Amaç: Harcama verilerini ön işleyip şehir, saat, cinsiyet ve gelir kırılı
 
 ## 3) Kurulum / Çalıştırma
 - Python gereklilikler: pandas, numpy, matplotlib
-- Power BI: AKBANKFINALCASE.pbix (users & transactions ilişki: users[User] 1—* transactions[User])
+- Power BI: powerbi/AKBANKFINALCASE.pbix (users & transactions ilişki: users[User] 1—* transactions[User])
 
 ## 4) Önişleme (kısaca)
 - Kolon adları normalize edildi.
