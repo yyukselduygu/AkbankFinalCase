@@ -1,5 +1,7 @@
 # Kredi Kartı Harcamaları – Analiz ve Dashboard
 
+## 0) Powerbi google drive linki : https://drive.google.com/file/d/1io8zTDEBeanciQL2JeUxiNbupfFg7Xqb/view?usp=sharing
+
 ## 1) Proje Özeti
 Amaç: Harcama verilerini ön işleyip şehir, saat, cinsiyet ve gelir kırılımlarında analiz etmek ve görselleştirmek.
 
