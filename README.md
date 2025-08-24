@@ -51,20 +51,25 @@ Amaç: Harcama verilerini ön işleyip şehir, saat, cinsiyet ve gelir kırılı
 
 
 ## 6) Grafik Ekran Görüntüleri
-
-
-<img width="1177" height="609" alt="Ekran görüntüsü 2025-08-24 235328" src="https://github.com/user-attachments/assets/566f3fe2-bd97-4465-9423-81b759734178" />
-<img width="828" height="622" alt="Ekran görüntüsü 2025-08-24 235312" src="https://github.com/user-attachments/assets/50394d5d-ddef-44c8-9c85-ff4da48f412e" />
-<img width="1184" height="586" alt="Ekran görüntüsü 2025-08-24 235302" src="https://github.com/user-attachments/assets/3fbfbfb8-dff0-42d4-8810-2b67bcb5e68a" />
-<img width="1166" height="491" alt="Ekran görüntüsü 2025-08-24 235252" src="https://github.com/user-attachments/assets/6a218970-6b03-4ff2-82ad-3afb73b529cb" />
 <img width="1182" height="597" alt="Ekran görüntüsü 2025-08-24 235242" src="https://github.com/user-attachments/assets/f9f139e2-92f5-4e2f-9ff6-8dd994453a91" />
+<img width="1166" height="491" alt="Ekran görüntüsü 2025-08-24 235252" src="https://github.com/user-attachments/assets/6a218970-6b03-4ff2-82ad-3afb73b529cb" />
+<img width="1184" height="586" alt="Ekran görüntüsü 2025-08-24 235302" src="https://github.com/user-attachments/assets/3fbfbfb8-dff0-42d4-8810-2b67bcb5e68a" />
+<img width="828" height="622" alt="Ekran görüntüsü 2025-08-24 235312" src="https://github.com/user-attachments/assets/50394d5d-ddef-44c8-9c85-ff4da48f412e" />
+<img width="1177" height="609" alt="Ekran görüntüsü 2025-08-24 235328" src="https://github.com/user-attachments/assets/566f3fe2-bd97-4465-9423-81b759734178" />
+
+
+
+
+
 
 PowerBI:
-<img width="1919" height="1018" alt="Ekran görüntüsü 2025-08-24 235655" src="https://github.com/user-attachments/assets/6f9b6a0c-6a85-45ab-8b64-71e792f7f716" />
-<img width="1919" height="1014" alt="Ekran görüntüsü 2025-08-24 235642" src="https://github.com/user-attachments/assets/100b5609-5556-4e9f-843f-1e92265b41b3" />
-<img width="1914" height="987" alt="Ekran görüntüsü 2025-08-24 235634" src="https://github.com/user-attachments/assets/e836bf62-1dbb-4fbf-830d-c944c197c218" />
-<img width="1919" height="1014" alt="Ekran görüntüsü 2025-08-24 235626" src="https://github.com/user-attachments/assets/adde4d69-6df9-4fb8-b0f9-b7ac34732751" />
+
 <img width="1919" height="1010" alt="Ekran görüntüsü 2025-08-24 235617" src="https://github.com/user-attachments/assets/5ac84eb8-47f3-4c17-b57d-f44bc9f791d8" />
+<img width="1919" height="1014" alt="Ekran görüntüsü 2025-08-24 235626" src="https://github.com/user-attachments/assets/adde4d69-6df9-4fb8-b0f9-b7ac34732751" />
+<img width="1914" height="987" alt="Ekran görüntüsü 2025-08-24 235634" src="https://github.com/user-attachments/assets/e836bf62-1dbb-4fbf-830d-c944c197c218" />
+<img width="1919" height="1014" alt="Ekran görüntüsü 2025-08-24 235642" src="https://github.com/user-attachments/assets/100b5609-5556-4e9f-843f-1e92265b41b3" />
+<img width="1919" height="1018" alt="Ekran görüntüsü 2025-08-24 235655" src="https://github.com/user-attachments/assets/6f9b6a0c-6a85-45ab-8b64-71e792f7f716" />
+
 
 
 ## 7) Proje Ekran Görüntüleri
