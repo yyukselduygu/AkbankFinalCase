@@ -89,6 +89,6 @@ PowerBI:
 
 ## 7) Proje Ekran Görüntüleri
 
-
+##
 - Kod temizliği (PEP8) ve fonksiyonel yapı.
 - Repolar private tutuldu, proje detayları dışarıyla paylaşılmadı.
