@@ -18,6 +18,12 @@ Amaç: Harcama verilerini ön işleyip şehir, saat, cinsiyet ve gelir kırılı
 - "Yearly Income - Person" $ işaretinden arındırılıp sayısala çevrildi.
 - users ile transactions User üzerinden birleştirildi, eksik/tutarsız kayıtlar elendi.
 
+<img width="821" height="314" alt="image" src="https://github.com/user-attachments/assets/849dc4fc-938d-41cb-89ec-8dd05914585d" />
+
+  
+BURALARDA SADECE PHYTONDA YAPTIKLARIMIZI YAZMIŞIZ. 2. VE 3. AŞAMAYLA İLGİLİ İÇİNDEKİLER GİBİ Bİ BİLGİ VERMEMİŞİZ GALİBA. MESELA PROJE ÖZETİ KISMINDA SADECE PHYTONIN AMACINI SÖYLEMİŞİZ HERALDE.
+
+
 ## 5) Analiz & Grafikleri
 - En çok harcama yapılan 10 şehir – Bar
 - Saatlik harcama dağılımı – Line
@@ -27,38 +33,37 @@ Amaç: Harcama verilerini ön işleyip şehir, saat, cinsiyet ve gelir kırılı
 
 ### Öne Çıkan Bulgular Ve Yorumlar
 
-### 🔝 En Çok Harcama Yapılan 10 Şehir
+### En Çok Harcama Yapılan 10 Şehir
+- En fazla harcama yapılan ilk 10 şehir, toplam harcamanın büyük bir bölümünü oluşturuyor. Özellikle ilk 4 şehirdeki harcamalara bakıldığında diğer 6 şehrin harcama miktarına göre oldukça fazla olduğu gözlemlenebilir."
+- İlk sırada La Verne şehri bulunuyor (*1,045,322 \$* civarı toplam harcama).
+- Ardından Monterey Park ve Mira Loma geliyor.
 
--   İlk sırada *La Verne* bulunuyor (*1,045,322 \$* civarı toplam
-    harcama).\
--   Ardından *Monterey Park* ve *Mira Loma* geliyor.
+### Saatlik Harcama Dağılımı
+-En fazla harcama yapılan saat 06.00'dır.
+-Saatlik dağılım grafiğinde sabah (05:00–06:00) saatleri aralığında harcamada büyük bir sıçrama gözlemlenirken (06:00-07.00) saat aralığında büyük bir düşüş görülmektedir. Bu saatler arasındaki hareketlilik ilgi çekici olabilir.
+-Bunun yanı sıra, öğle vakti (13.00) saatinde ve akşam vakti (20.00) saatinde de diğer saatlere göre yüksek bir harcama gözlemleniyor. Böylece harcamaların genellikle yemek araları ve mesai sonrası yapıldığı çıkarımı yapılabilir.
 
-### ⏰ Saatlik Harcama Dağılımı
+### Cinsiyete Göre Harcama
+- Kadın kullanıcılar toplam harcaması (~984,753 $).
+- Erkek kullanıcıların toplam harcaması (~941,525 $).
+-Cinsiyete göre harcamalar karşılaştırıldığında, kadın kullanıcıların erkek kullanıcılara göre daha fazla harcama yapmış olduğu gözlemleniyor. Fakat bu iki cinsiyet arasında çok büyük bir harcama farkı gözlemlenmiyor. 
+-Harcama davranışlarındaki bu benzerlik, kadın ve erkek kullanıcıların benzer gelir gruplarına ve tüketim alışkanlıklarına sahip olabileceğini düşündürebilir. Pazarlama stratejileri buna göre planlanabilir.
 
--   En yoğun harcama *sabah 06:00 saatinde* gerçekleşmiş (\~897,524
-    \$).\
--   Öğle 13:00 ve akşam 20:00 saatleri de öne çıkan dilimler.
+### Gelir ve Harcama İlişkisi
+-Gelir–harcama scatter plot incelendiğinde, yıllık gelir ile harcama miktarı arasında direkt bir ilişki gözlemlenemedi. Gelir yükseldikçe harcamaların paralel şekilde artmadığı, hatta bazı yüksek gelirli kullanıcıların toplamda daha az harcama yaptığı da dikkat çekiyor.
+-Buna ek olarak, bazı düşük gelirli kullanıcıların da yüksek harcamalar yaptığı gözlemleniyor.
+-Buradan şu çıkarım yapılabilir: Yüksek gelir her zaman daha yüksek harcamaya, düşük gelir de her zaman düşük harcamaya karşılık gelmiyor. 
+-20.000–80.000 $ arası gelir grubunda harcamaların daha yoğun olduğu görünüyor. Yani 20.000–80.000 $ yıllık geliri olanlara orta gelir grubu diyecek olursak, en fazla harcama yapanlar orta gelir grubu olarak gözlemlenir.
 
-### 🚻 Cinsiyete Göre Harcama
-
--   *Kadın kullanıcılar* toplamda daha fazla harcama yapmış
-    (\~984,753 \$).\
--   Erkek kullanıcıların harcaması *\~941,525 \$*.
-
-### 💵 Gelir ve Harcama İlişkisi
-
--   Gelir ile toplam harcama arasında zayıf ve negatif bir korelasyon
-    gözlemlendi (r ≈ *-0.05*).\
--   Yani yüksek gelir her zaman daha yüksek harcamaya karşılık gelmiyor.
-
-Bizim eklediğimiz eksik
 
 ## 6) Grafik Ekran Görüntüleri
 
+
+FOTO EKLEYEMEDİM
 
 
 ## 7) Proje Ekran Görüntüleri
 
 
 - Kod temizliği (PEP8) ve fonksiyonel yapı.
-- Repolar private tutuldu, proje detayları dışarıyla paylaşılmadı.
+- Repolar private tutuldu, proje detayları dışarıyla paylaşılmadı.
